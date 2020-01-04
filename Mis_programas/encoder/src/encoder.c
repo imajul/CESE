@@ -3,7 +3,7 @@
  * Date: 2019/09/15
  *===========================================================================*/
 
-/*=====[Inclusions of function dependencies]=================================*/
+/*=====[Inclusions of function dependencies CAMBIO]=================================*/
 
 #include "../../../Mis_programas/encoder/inc/encoder.h"
 
