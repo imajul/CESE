@@ -33,8 +33,8 @@
 /*==================[inlcusiones]============================================*/
 
 // Includes de FreeRTOS
+#include "../../../../RTOS_I/freeRTOS_Clase_04_semaforo/freeRTOS_04_semaforo/inc/FreeRTOSConfig.h"
 #include "FreeRTOS.h"   //Motor del OS
-#include "FreeRTOSConfig.h"
 #include "task.h"		//Api de control de tareas y temporización
 #include "semphr.h"		//Api de sincronización (sem y mutex)
 

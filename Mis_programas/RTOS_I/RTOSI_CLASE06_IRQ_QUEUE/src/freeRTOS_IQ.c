@@ -1,7 +1,7 @@
 /*==================[inlcusiones]============================================*/
 
 // Includes de FreeRTOS
-#include "FreeRTOSConfig.h"
+#include "../../../RTOS_I/RTOSI_CLASE06_IRQ_QUEUE/inc/FreeRTOSConfig.h"
 #include "FreeRTOS.h"   //Motor del OS
 #include "task.h"		//Api de control de tareas y temporización
 #include "semphr.h"		//Api de sincronización (sem y mutex)
